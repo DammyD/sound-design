@@ -12,4 +12,6 @@ export {
     Testimonials,
     Topics,
     Footer
+
+    // # we are using VITE_PROJECT at the beginning because we used vite to create the app. If we were to create the project using create react app. We'll use REACT_APP_ID
 }
